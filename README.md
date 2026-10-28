@@ -1,11 +1,14 @@
-<div align="center">
+# S7NS source repository moved
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+This repository originally contained only the default Google AI Studio starter README. The S7NS project’s canonical GitHub home is now:
 
-  <h1>Built with AI Studio</h2>
+**https://github.com/kazekamimp3/kaze808**
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+Start with:
+- https://github.com/kazekamimp3/kaze808/blob/main/AI_STUDIO_START_HERE.md
+- https://github.com/kazekamimp3/kaze808/blob/main/routing/CAPABILITY_ROUTER.yaml
+- https://github.com/kazekamimp3/kaze808/blob/main/routing/LOGICAL_PHYSICAL_SOURCE_MAP.json
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+Do not add S7NS canon, episode manuscripts, checkpoints, or source bundles here. The former starter README was preserved in the canonical repository at `backups/repository_snapshots_20261028/kazekamimp3/README.md`.
 
-</div>
+Migration note: https://github.com/kazekamimp3/kaze808/blob/main/MIGRATION_FROM_KAZEKAMIMP3_20261028.md
